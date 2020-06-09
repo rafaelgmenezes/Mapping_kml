@@ -11,6 +11,7 @@ README:
     
     CURRENT WORKING DIRECTORY is expected to be the same as the location of this file (Mapping_kml.py)
     .KML FILES FOLDER (kmlbase) is expected to be at the same as the location of this file (Mapping_kml.py)
+    
     EXAMPLES:
         Arraial do Cabo, RJ, southeast Brazil
         Fernando de Noronha, PE, northeast Brazil
