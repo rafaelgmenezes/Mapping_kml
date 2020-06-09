@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ilha_franceses2.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Ilha_franceses2</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-42.03766118023236,-22.98397365845888,0 -42.03771036691068,-22.98406673635723,0 -42.03775374515477,-22.98416889354746,0 -42.03775655796083,-22.98424140583399,0 -42.03776916180796,-22.98432792201482,0 -42.03776213978571,-22.98438529988733,0 -42.03773857941766,-22.98448040151257,0 -42.03773301673165,-22.98449461015841,0 -42.03770979631287,-22.98458425770678,0 -42.03765642380274,-22.98466864847126,0 -42.0376338641139,-22.98474787374972,0 -42.03759225774056,-22.98478963062358,0 -42.03752704240829,-22.98477108856444,0 -42.03744666279622,-22.98474787522845,0 -42.03744827872466,-22.98467332325281,0 -42.03736780476239,-22.98463589430119,0 -42.03726668999948,-22.98460305968246,0 -42.03715020521479,-22.98455601556561,0 -42.03714108930612,-22.9844519447704,0 -42.03705974606431,-22.98438530527262,0 -42.03711672658177,-22.98432313500201,0 -42.03722489076872,-22.98430394865342,0 -42.03731857017879,-22.98423658745333,0 -42.03740677299607,-22.98420761729132,0 -42.03743438368261,-22.98412034378755,0 -42.03746333807656,-22.98397857479544,0 -42.03753251520078,-22.98391455232606,0 -42.03766118023236,-22.98397365845888,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
