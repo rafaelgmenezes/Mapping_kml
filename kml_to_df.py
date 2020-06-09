@@ -73,7 +73,7 @@ def kml_to_df (fmt = 'df'):    # fmt = output format
        df = pd.concat([df,dfi], axis = 0, sort = False)
    df = df.reset_index(drop = True)
    
-   print('\nkml files located at :\n', os.getcwd(), '\n were properly converted')
+   print('\nkml files located at :\n', os.getcwd(), '\n were converted succesfully')
    os.chdir(path)
    if fmt == 'csv':
        df.to_csv('kml_to_df_output.csv')
