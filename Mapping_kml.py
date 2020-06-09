@@ -4,9 +4,10 @@ Created on Mon Jun  1 09:59:31 2020
 
 @author: Rafael G. de Menezes
 Oceanógrafo, Msc. Biotecnologia Marinha
-
 Clube do Cientista
 Biosustente Estudos Ambientais ltda.
+
+Developed with Python 3.7.6
 
 README:
     Making maps with .KML files (from Google Earth) using Matplotlib. 
@@ -18,6 +19,7 @@ README:
     
     CURRENT WORKING DIRECTORY is expected to be the same as the location of this file (Mapping_kml.py)
     .KML FILES FOLDER (kmlbase) is expected to be at the same as the location of this file (Mapping_kml.py)
+    
     EXAMPLES:
         Arraial do Cabo, RJ, southeast Brazil
         Fernando de Noronha, PE, northeast Brazil
@@ -27,7 +29,7 @@ README:
     DEFAULTS:
     FIGURE SIZE -> default to best fit into a 15.6" notebook screen 
     AUTOSCALE   -> in kilometers (km) and designed to fit axis sizes. 
-                   location and number of kilometers can be set at line 207
+                   location and number of kilometers can be set at line 208
     SAVE FIGURE -> figure will be saved at the current working directory
                    default -> .png and 200 dpi
 """

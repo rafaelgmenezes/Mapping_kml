@@ -4,9 +4,10 @@ Created on Thu May 28 16:49:08 2020
 
 @author: Rafael G. de Menezes
 Oceanographer, Msc. Marine Biotechnology
-
 Clube do Cientista
 Biosustente Estudos Ambientais ltda.
+
+Developed with Python 3.7.6
 
 README:
     Python function to transform google earth .kml files list into a pandas DataFrame 
