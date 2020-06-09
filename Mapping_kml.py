@@ -27,7 +27,7 @@ README:
     DEFAULTS:
     FIGURE SIZE -> default to best fit into a 15.6" notebook screen 
     AUTOSCALE   -> in kilometers (km) and designed to fit axis sizes. 
-                   location and number of kilometers can be set at line 206
+                   location and number of kilometers can be set at line 207
     SAVE FIGURE -> figure will be saved at the current working directory
                    default -> .png and 200 dpi
 """
