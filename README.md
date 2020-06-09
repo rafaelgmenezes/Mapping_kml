@@ -1,5 +1,5 @@
 # Mapping_kml
-Functions to make maps from .kml files using matplotlib and kml_to_df
+Developed with Python 3.7.6
 
 README:
     Making maps with .KML files (from Google Earth) using Matplotlib. 
@@ -21,6 +21,6 @@ README:
     DEFAULTS:
     FIGURE SIZE -> default to best fit into a 15.6" notebook screen 
     AUTOSCALE   -> in kilometers (km) and designed to fit axis sizes. 
-                   location and number of kilometers can be set at line 207
+                   location and number of kilometers can be set at line 208
     SAVE FIGURE -> figure will be saved at the current working directory
                    default -> .png and 200 dpi
